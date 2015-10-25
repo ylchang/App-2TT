@@ -37,7 +37,7 @@ shinyUI(fluidPage(
     
     mainPanel(
       tabsetPanel(
-        tabPanel("Documentation",includeMarkdown("2TT_User_Guide.md")),
+##        tabPanel("Documentation",includeMarkdown("2TT_User_Guide.md")),
         tabPanel("Show Data Summary",verbatimTextOutput('summary')),
         tabPanel("Box Plot", plotOutput("plot")),
         tabPanel("t-Test Summary",verbatimTextOutput('Tsummary'))
