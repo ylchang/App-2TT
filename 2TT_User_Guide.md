@@ -7,7 +7,7 @@ output: pdf_document
 
 **This is a step-by-step user guide for 2TT - A Shiny App for 2-Sample t-Test. A sample data file is provided. User can use it and follow this guide to familiarize 2TT.**
 
-![alt text](AppLook1.png)
+![alt text](http://i.imgur.com/QPqmDnv.png)
 
 Fig. 1 Notice that under the "Show Data Summary" a message `[1] "Waiting for data.". This indicates 2TT is waiting for user to load the data file.
 
@@ -40,21 +40,21 @@ Click the radio botton under **Are the variances of two samples the same?** to s
 
 At this moment 2TT should look lie the following figure:
 
-![alt text](AppLook.png)
+![alt text](http://i.imgur.com/qkuGiuk.png)
 
 Fig. 2 Notice that under the "Show Data Summary" a brief summary of the data file is shown.
 
 ##Step 7 - Visual Comparison - Box Plot
 Click **Box Plot** tab to see the box plot result (Fig. 3).
 
-![alt text](BoxPlot.png)
+![alt text](http://i.imgur.com/7CZlSz2.png)
 
 Fig. 3 2TT presents a visual comparison for the two samples to user inside the "Box Plot".
 
 ##Step 8 - More Detail of t-Test Result
 Click **t-Test Summary** tab to see the detail summary of the 2-sample t-Test (Fig. 4). 
 
-![alt text](t-TestSummary.png)
+![alt text](http://i.imgur.com/iXRNiuP.png)
 
 Fig. 4 2TT gives user more detail of the t-Test result in the "t-Test Summary" tab.
 
